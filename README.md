@@ -1,4 +1,6 @@
-# xxx
+# create_vue2.x_typescript_project
+
+## 1. init
 
 ## Project setup
 ```
