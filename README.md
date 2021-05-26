@@ -1,0 +1,2 @@
+# create_vue2.x_typescript_project
+create_vue2.x_typescript_project
